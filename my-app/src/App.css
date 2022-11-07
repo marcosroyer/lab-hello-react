@@ -1,0 +1,88 @@
+img{
+  width: 110px;
+}
+
+#main{
+  background-color: #1e2334;
+}
+
+#menu{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+}
+
+.img-nav{
+  width: 40px;
+  background-color: #1e2334;
+
+}
+
+.img-menu{
+  width: 30px;
+  height: 20px;
+  background-color: #1e2334;
+
+}
+
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-size: 48px;
+  width: 350px;
+  padding-top: 60px;
+  padding-left: 40px;
+
+}
+
+#subline{
+  color: white;
+  width: 250px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 200;
+}
+
+button{
+  background-color: white;
+  border-radius: 3px;
+  margin-left: 40px;
+  border: 0;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+span{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 2px;
+  color: #2a2f40;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+h3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 2px;
+  color: #2a2f40;
+  font-size: 20px;
+}
+
+.faixa{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 700px;
+  padding: 40px;
+}
+
+.mini{
+  width: 150px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: gray;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
